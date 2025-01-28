@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Diksha Sivaprasad",
+    "section": "",
+    "text": "You’re in the right place!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Welcome To My World\nDiksha Sivaprasad is a 2025 Master of Science in Business Analytics student at the Paul Merage School of Business. She holds a bachelor’s degree in business management and marketing and has gained hands-on experience as both a marketer and analyst across the Proptech, E-Commerce, and Information Services sectors in Dubai.\nDriven by a strong interest in data, she has consistently gravitated toward understanding product development and user behavior, now honing her skills in machine learning, data visualization, and strategic decision-making. Beyond academics, Diksha loves spending time at the beach, exploring new restaurants, and saying yes to new experiences."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Old Faithful",
+    "section": "",
+    "text": "[projects]"
+  },
+  {
+    "objectID": "projects/project-a/index.html",
+    "href": "projects/project-a/index.html",
+    "title": "project",
+    "section": "",
+    "text": "projects"
+  }
+]
